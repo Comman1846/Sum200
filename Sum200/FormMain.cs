@@ -1,4 +1,9 @@
-﻿using System;
+﻿//Author : Michael Foseid
+//Date 9/23/2020
+//Chapter 5 Exercise 9 Sum200
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
